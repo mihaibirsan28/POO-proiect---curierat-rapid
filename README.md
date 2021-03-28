@@ -33,4 +33,4 @@ sa ajunga sa nu mai poata fi livrat la timp.
  Performanta algoritmului de alocare nu este cruciala pentru aceasta
 cerinta la acest curs.
 
-Nu am reusit sa implimentez o metodele de alegere a vehiculului care ridica comanda, sau a strategiei de livrare a fiecarui sofer.
+Nu am reusit sa implimentez o metoda de alegere a vehiculului care ridica comanda, sau a strategiei de livrare a fiecarui sofer.
